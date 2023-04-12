@@ -8,7 +8,7 @@ export default function Header() {
         <Text size={24} weight="700">APP</Text>
       </Text>
 
-      <Text opacity={0.5}>Add, delete ou marque as tarefas executadas</Text>
+      <Text opacity={0.5}>Adicione, delete ou marque as tarefas executadas</Text>
         </Container>
     );
 }
